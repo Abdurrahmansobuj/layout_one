@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.service{
+    text-align: center;
+    color:white;
+    background-color: aqua;
+    width: 100%;
+}
+.banner{
+    color: white;
+    background-color: blue;
+    text-align: center;
+    height: 300px;
+}
+.service_part{
+    display: flex;
+}
+.part_one{
+    width: 50%;
+    height: 500px;
+    color: white;
+    background-color: chocolate;
+    text-align: center;
+}
+.part_two{
+    width: 50%;
+    height: 500px;
+    color: white;
+    background-color: aquamarine;
+    text-align: center;
+}
+.works{
+    display: flex;
+}
+.works_one{
+    width: 33.33%;
+    height: 200px;
+    background-color: #FFC312;
+    color: white;
+    text-align: center;
+}
+.works_two{
+    width: 33.33%;
+    height: 200px;
+    background-color: #C4E538;
+    color: white;
+    text-align: center;
+}
+.works_three{
+    width: 33.33%;
+    height: 200px;
+    background-color: #12CBC4;
+    color: white;
+    text-align: center;
+}
+.works_four{
+    width: 33.33%;
+    height: 200px;
+    background-color: #FDA7DF;
+    color: white;
+    text-align: center;
+}
+.work{
+    display: flex;
+}
+.work_i{
+    width: 25%;
+    height: 200px;
+    color: white;
+    background-color: #B53471;
+    text-align: center;
+}
+.work_ii{
+    width: 25%;
+    height: 200px;
+    color: white;
+    background-color: #D980FA;
+    text-align: center;
+}
+.work_iii{
+    width: 25%;
+    height: 200px;
+    color: white;
+    background-color: #1289A7;
+    text-align: center;
+}
+.work_iiii{
+    width: 25%;
+    height: 200px;
+    color: white;
+    background-color: #A3CB38;
+    text-align: center;
+}
+.footer{
+    text-align: center;
+    color: white;
+    background-color: #F79F1F;
+    width: 100%;
+    height: 50px;
+}
